@@ -18,7 +18,7 @@ public class Operators {
         System.out.println("Result of x % y = " + (x % y));
 
 
-        // 2.
+        // 2. ++ --
         System.out.println("\n2. ++ --");
         int z = 10;
         System.out.println("z: " + z);
